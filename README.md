@@ -14,9 +14,10 @@ EchoLyrics is a web application that allows users to search for lyrics by artist
 ## Screenshots 📸
 
 ### Home Page
+![alt text](image.png)
 
 ### Search Results Page
-
+![alt text](image-1.png)
 ## Tech Stack 🛠
 
 - **Backend**: [Laravel](https://laravel.com/)
@@ -87,10 +88,7 @@ The app uses the **Genius API** to fetch song lyrics and details. For the Genius
 ## Contributing 🤝
 
 Contributions are welcome! Please fork the repo and create a pull request.
-
-## License 📜
-
-This project is licensed under the MIT License. 
+ 
 
 ## Contact 📬
 
