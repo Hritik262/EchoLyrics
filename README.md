@@ -93,8 +93,8 @@ Contributions are welcome! Please fork the repo and create a pull request.
 ## Contact 📬
 
 For any questions or suggestions, please feel free to reach out:
-- **Email**: [skprajapati3214@gmail.com](mailto:skprajapati3214@gmail.com)
-- **LinkedIn**: [linkedin.com/in/skp3214](https://www.linkedin.com/in/skp3214)
+- **Email**: [skprajapati3214@gmail.com](mailto:hritikraj121@gmail.com)
+- **LinkedIn**: [linkedin.com/in/skp3214](https://www.linkedin.com/in/hritik-raj121)
 
 --- 
 
